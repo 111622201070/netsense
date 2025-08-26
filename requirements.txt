@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+numpy
+scipy
+supabase
+numba>=0.59
+llvmlite>=0.42
